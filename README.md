@@ -5,7 +5,7 @@
 - 📫 You can reach me on ()
   {
     'Email' = 'andreyanugrahputra@gmail.com';
-    'Instagram' = 'andrey_a_putra';
+    'Instagram' = '@andrey_a_putra';
   }
 
 <!---
