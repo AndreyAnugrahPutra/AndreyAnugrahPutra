@@ -9,6 +9,10 @@
 
 ###
 
+<img align="right" height="150" src="https://imgflip.com/s/meme/Hide-the-Pain-Harold.jpg"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -37,6 +41,8 @@
 
 ###
 
-###
-<img align="right" height="150" src="https://imgflip.com/s/meme/Hide-the-Pain-Harold.jpg"  />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/AndreyAnugrahPutra/AndreyAnugrahPutra/output/snake.svg" alt="Snake animation" />
+
 ###
