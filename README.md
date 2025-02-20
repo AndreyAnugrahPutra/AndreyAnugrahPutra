@@ -9,7 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/s/meme/Hide-the-Pain-Harold.jpg"  />
 
 ###
 
