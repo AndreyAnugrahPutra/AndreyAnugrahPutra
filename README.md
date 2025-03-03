@@ -12,6 +12,7 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/andrey-anugrah-putra-110446260" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/andrey_a_putra" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+<p><img src="https://streak-stats.demolab.com?user=AndreyAnugrahPutra&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" height="150" alt="streak graph"  /></p>
 <p>
 <!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AndreyAnugrahPutra&" alt="AndreyAnugrahPutra" /> -->
   <img src="https://github-readme-stats.vercel.app/api?username=AndreyAnugrahPutra&show_icons=true&count_private=true&hide_border=true" align="center" />  
