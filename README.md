@@ -20,6 +20,6 @@
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreyAnugrahPutra&show_icons=true&locale=en&layout=compact" alt="AndreyAnugrahPutra" /></p> -->
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AndreyAnugrahPutra" alt="AndreyAnugrahPutra" /></a></p>
 
-<div align="center">
+<div align="left">
 <img src="https://komarev.com/ghpvc/?username=AndreyAnugrahPutra&&style=flat-square" align="center" />
 </div> 
