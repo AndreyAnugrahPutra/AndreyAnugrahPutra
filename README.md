@@ -15,7 +15,9 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AndreyAnugrahPutra&" alt="AndreyAnugrahPutra" />
   <img src="https://github-readme-stats.vercel.app/api?username=AndreyAnugrahPutra&show_icons=true&count_private=true&hide_border=true" align="center" />  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreyAnugrahPutra&show_icons=true&locale=en&layout=compact" alt="AndreyAnugrahPutra" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreyAnugrahPutra&show_icons=true&locale=en&layout=compact" alt="AndreyAnugrahPutra" />
 </p>
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreyAnugrahPutra&show_icons=true&locale=en&layout=compact" alt="AndreyAnugrahPutra" /></p> -->
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AndreyAnugrahPutra" alt="AndreyAnugrahPutra" /></a></p>
