@@ -14,7 +14,9 @@
 <a target="_blank" href="https://www.instagram.com/andrey_a_putra" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AndreyAnugrahPutra&" alt="AndreyAnugrahPutra" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AndreyAnugrahPutra&show_icons=true&count_private=true&hide_border=true" align="center" />  
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=AndreyAnugrahPutra&show_icons=true&count_private=true&hide_border=true"/>  
 </p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreyAnugrahPutra&show_icons=true&locale=en&layout=compact" alt="AndreyAnugrahPutra" />
