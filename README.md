@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Andrey Anugrah Putra</h1>
 <p>A passionate web developer</p>
-<h2>🚀 Languages and Tools I Use</h2>
+<h2>🚀 Tech Stack I Use</h2>
 <p>
 <!-- html -->
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;">
