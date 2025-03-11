@@ -36,6 +36,9 @@
   </a>
 </p>
 
+<p>
+  <img src="https://camo.githubusercontent.com/685d4010a430b80988ac369ea0c7398eff8ab41d5ff665533eb406c265d5a0cc/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7675656a732f7675656a732d6f726967696e616c2e737667" alt="vuejs" width="42" height="42" />
+</p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/andrey-anugrah-putra-110446260" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/andrey_a_putra" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
